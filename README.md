@@ -1,5 +1,5 @@
 # PreepBoost
-Build an end to end leetcode clone
+Build preepboost
 
 Users should be able to sign in
 Users should be able to list all the problem statements
